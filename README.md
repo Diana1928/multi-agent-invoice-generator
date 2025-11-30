@@ -56,7 +56,7 @@ This project automates invoice generation using AI agents:
 ## Value Statement
 By automating invoice creation, this agent reduced my weekly invoice preparation time by 5 hours, freeing me to focus on higher‑value tasks.
 
-### Future Improvements
+### If I had more time, this is what I'd do
 - Add an **email agent** to send invoices directly.  
 - Integrate with **QuickBooks** or other accounting software.  
 - Expand extraction to handle **scanned documents or photos**.  
